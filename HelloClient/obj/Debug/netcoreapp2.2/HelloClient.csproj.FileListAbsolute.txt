@@ -1,0 +1,14 @@
+D:\Code\HelloGrpc\HelloClient\bin\Debug\netcoreapp2.2\HelloClient.deps.json
+D:\Code\HelloGrpc\HelloClient\bin\Debug\netcoreapp2.2\HelloClient.runtimeconfig.json
+D:\Code\HelloGrpc\HelloClient\bin\Debug\netcoreapp2.2\HelloClient.runtimeconfig.dev.json
+D:\Code\HelloGrpc\HelloClient\bin\Debug\netcoreapp2.2\HelloClient.dll
+D:\Code\HelloGrpc\HelloClient\bin\Debug\netcoreapp2.2\HelloClient.pdb
+D:\Code\HelloGrpc\HelloClient\bin\Debug\netcoreapp2.2\HelloProto.dll
+D:\Code\HelloGrpc\HelloClient\bin\Debug\netcoreapp2.2\HelloProto.pdb
+D:\Code\HelloGrpc\HelloClient\obj\Debug\netcoreapp2.2\HelloClient.csprojAssemblyReference.cache
+D:\Code\HelloGrpc\HelloClient\obj\Debug\netcoreapp2.2\HelloClient.csproj.CoreCompileInputs.cache
+D:\Code\HelloGrpc\HelloClient\obj\Debug\netcoreapp2.2\HelloClient.AssemblyInfoInputs.cache
+D:\Code\HelloGrpc\HelloClient\obj\Debug\netcoreapp2.2\HelloClient.AssemblyInfo.cs
+D:\Code\HelloGrpc\HelloClient\obj\Debug\netcoreapp2.2\HelloClient.csproj.CopyComplete
+D:\Code\HelloGrpc\HelloClient\obj\Debug\netcoreapp2.2\HelloClient.dll
+D:\Code\HelloGrpc\HelloClient\obj\Debug\netcoreapp2.2\HelloClient.pdb
