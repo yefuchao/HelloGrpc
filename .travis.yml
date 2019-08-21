@@ -2,7 +2,9 @@ language: csharp
 solution: HelloGrpc.sln
 mono: none
 dotnet: 2.2.401
+install: 
+ - nuget restore HelloGrpc.sln
+#  - nuget install xunit.runners -Version 2.4.0 -OutputDirectory testrunner
 script:
  - dotnet restore
-git:
-  clone: false
+ - msbuild /p:Configuration=Release HelloGrpc.sln
