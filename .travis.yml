@@ -1,6 +1,6 @@
 language: csharp
 solution: HelloGrpc.sln
-
+mono: none
 dotnet: 2.2.401
 script:
  - dotnet restore
