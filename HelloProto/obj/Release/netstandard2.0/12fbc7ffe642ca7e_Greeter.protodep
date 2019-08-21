@@ -1,2 +1,0 @@
-obj\Release\netstandard2.0/Greeter.cs \
-obj\Release\netstandard2.0/GreeterGrpc.cs: protos/Greeter.proto

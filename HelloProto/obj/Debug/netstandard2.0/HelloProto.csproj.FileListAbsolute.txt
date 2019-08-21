@@ -1,9 +1,0 @@
-D:\Code\HelloGrpc\HelloProto\bin\Debug\netstandard2.0\HelloProto.deps.json
-D:\Code\HelloGrpc\HelloProto\bin\Debug\netstandard2.0\HelloProto.dll
-D:\Code\HelloGrpc\HelloProto\bin\Debug\netstandard2.0\HelloProto.pdb
-D:\Code\HelloGrpc\HelloProto\obj\Debug\netstandard2.0\HelloProto.csprojAssemblyReference.cache
-D:\Code\HelloGrpc\HelloProto\obj\Debug\netstandard2.0\HelloProto.csproj.CoreCompileInputs.cache
-D:\Code\HelloGrpc\HelloProto\obj\Debug\netstandard2.0\HelloProto.AssemblyInfoInputs.cache
-D:\Code\HelloGrpc\HelloProto\obj\Debug\netstandard2.0\HelloProto.AssemblyInfo.cs
-D:\Code\HelloGrpc\HelloProto\obj\Debug\netstandard2.0\HelloProto.dll
-D:\Code\HelloGrpc\HelloProto\obj\Debug\netstandard2.0\HelloProto.pdb
